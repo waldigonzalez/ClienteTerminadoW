@@ -11,8 +11,8 @@ const Nav =()=> {
                  </button>
                  <div className="collapse navbar-collapse" id="navbarNav">
                    <ul className="navbar-nav">
-                    <il className="navbar-item">
-                        <a className="nav-link" href="/produtos">+Libros</a>
+                    <il className="nav-item">
+                        <a className="navbar-brand" href="/agregar">Agregar Libros</a>
                     </il>
                    </ul>
                  </div>
